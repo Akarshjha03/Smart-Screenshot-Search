@@ -55,6 +55,34 @@ This extension demonstrates **practical full-stack engineering**:
 
 ---
 
+## ✅ Example Usage
+- Click the extension icon.
+- Click Take Screenshot.
+- The extension automatically captures the visible tab.
+- Screenshot is sent to the server.
+- Server calls Vision API → returns results.
+- Results are shown in the popup or new tab.
 
+## ✨ Highlights
+✔️ Secure API communication using fetch and async requests.
+✔️ Clean Node.js Express server handling POST requests and image data.
+✔️ Cloud AI integration demonstrating real-world Vision API usage.
+✔️ Practical Chrome Extension using Manifest V3 service workers.
+✔️ Good candidate for personal portfolio, resume, or backend showcase.
 
+## 📌 Future Enhancements
+🔍 Add OCR text extraction for screenshots.
+🗂️ Store user search history securely.
+🪄 Implement smart local fallback with TensorFlow.js.
+🎨 Improve popup UI with React or Next.js.
+🔐 Add user auth for personal usage tracking.
+
+## 📚 License
+This project is open-source for educational purposes only.
+Always secure your API keys and manage your Google Cloud billing to avoid unexpected costs.
+
+## 👤 Author
+# Akarsh Jha
+🎓 Computer Science & Engineering Undergraduate
+🔗 [LinkedIn](https://www.linkedin.com/in/akarshjha03/)
 
