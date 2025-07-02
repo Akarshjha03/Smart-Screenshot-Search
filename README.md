@@ -26,3 +26,35 @@ This extension demonstrates **practical full-stack engineering**:
 ---
 
 
+---
+
+## ⚙️ **Tech Stack**
+
+- **Frontend:** Chrome Extension (Manifest V3, HTML, JavaScript)
+- **Backend:** Node.js, Express.js
+- **Cloud AI:** Google Cloud Vision API
+- **Cloud Security:** Service Account, API key management
+
+---
+
+## ✅ **How It Works**
+
+1️⃣ User clicks the extension icon → opens a simple popup.  
+2️⃣ Click **“Take Screenshot”** → active tab is captured.  
+3️⃣ Image is encoded in base64 and sent to the Node.js backend.  
+4️⃣ Backend calls **Google Cloud Vision API** to analyze the image.  
+5️⃣ Backend responds with labels, detected objects, and web matches.  
+6️⃣ Extension displays the result or opens a new tab with the output.
+
+---
+
+## 🔐 **Billing Note**
+
+> ⚠️ The **Google Cloud Vision API** requires billing to be enabled on your GCP project.
+> Google provides **free credits** for new accounts — ensure you monitor usage responsibly.
+
+---
+
+
+
+
