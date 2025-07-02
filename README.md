@@ -29,6 +29,8 @@ This extension demonstrates **practical full-stack engineering**:
 This project uses the **Google Cloud Vision API**, which provides powerful pre-trained machine learning models to understand the content of images. With Vision API, developers can easily perform tasks like label detection, web detection, face detection, landmark recognition, text extraction (OCR), and more — all through a secure, scalable cloud service. In this project, Vision API analyzes screenshots captured by the extension and returns descriptive labels and web entity matches, demonstrating how cloud AI can be integrated into a real-time, user-facing browser tool.
 
 ## Working
+![Project Diagram](https://github.com/Akarshjha03/Smart-Screenshot-Search/blob/main/Diagram1.png)
+
 
 
 ---
